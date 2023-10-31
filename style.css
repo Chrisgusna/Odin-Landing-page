@@ -140,5 +140,39 @@ li{
 /* Call to action */
 
 .cta{
-    padding: 100px;
+    padding: 100px 150px;
+}
+
+.cta-one{
+    display: flex;
+    background: #3882f6;
+    color: #f9faf8;
+    border-radius: 10px;
+}
+
+.cta-p{
+    padding: 40px 90px;
+
+}
+
+.cta-first-p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cta-first-p p{
+    font-weight: 300;
+}
+
+.cta-button{
+    margin: 50px 0 0 50px;
+    padding: 8px 32px;
+}
+
+.cta-button button{
+    padding: 8px 32px;
+    background: #3882f6;
+    border: 1px solid white;
+    color: #f9faf8;
+    border-radius: 5px;
 }
