@@ -74,5 +74,71 @@ li{
     background-color: #8c8f8c;
 }
 
+.hero-img p{
+    padding: 80px;
+}
 
+/* Random information styling */
 
+.info-one{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0 0 0;
+}
+
+.info-one h1{
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    padding: 40px 300px 80px 300px;
+}
+
+.info div{
+    padding: 10px 15px 10px 15px;
+}
+
+.info div div{
+    width: 170px;
+    height: 175px;
+    border: 4px solid #3882f6;
+    border-radius: 10px;
+}
+
+.info p{
+    padding-top: 10px;
+    align-items: center;
+    color: #7c7d7e;
+    font-weight: bold;
+}
+
+/* Quote */
+
+.quote{
+    background: #e5e7eb;
+    padding: 100px;
+}
+
+.quote div {
+    padding: 40px 150px;
+}
+
+.quote div p{
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.author{
+    padding-left: 400px;
+    font-weight: bold;
+}
+
+/* Call to action */
+
+.cta{
+    padding: 100px;
+}
